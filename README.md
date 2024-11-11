@@ -11,4 +11,7 @@ This is the backend application for **Evently**, an event management and ticketi
 - **Lombok**: Reduces boilerplate code.
 - **Stripe**: For secure payment processing.
 
+## Frontend Repository
+The frontend for this application is available at [Evently - Angular Frontend](https://github.com/GOMES31/event-manager-frontend).
+
 **Note**: This project is for learning purposes.
